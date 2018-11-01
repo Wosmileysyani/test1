@@ -1,0 +1,14 @@
+D:\Web\WorkShop2\bin\Debug\netcoreapp2.1\WorkShop2.deps.json
+D:\Web\WorkShop2\bin\Debug\netcoreapp2.1\WorkShop2.runtimeconfig.json
+D:\Web\WorkShop2\bin\Debug\netcoreapp2.1\WorkShop2.runtimeconfig.dev.json
+D:\Web\WorkShop2\bin\Debug\netcoreapp2.1\WorkShop2.dll
+D:\Web\WorkShop2\bin\Debug\netcoreapp2.1\WorkShop2.pdb
+D:\Web\WorkShop2\obj\Debug\netcoreapp2.1\WorkShop2.csprojAssemblyReference.cache
+D:\Web\WorkShop2\obj\Debug\netcoreapp2.1\WorkShop2.csproj.CoreCompileInputs.cache
+D:\Web\WorkShop2\obj\Debug\netcoreapp2.1\WorkShop2.RazorAssemblyInfo.cache
+D:\Web\WorkShop2\obj\Debug\netcoreapp2.1\WorkShop2.RazorAssemblyInfo.cs
+D:\Web\WorkShop2\obj\Debug\netcoreapp2.1\WorkShop2.AssemblyInfoInputs.cache
+D:\Web\WorkShop2\obj\Debug\netcoreapp2.1\WorkShop2.AssemblyInfo.cs
+D:\Web\WorkShop2\obj\Debug\netcoreapp2.1\WorkShop2.RazorTargetAssemblyInfo.cache
+D:\Web\WorkShop2\obj\Debug\netcoreapp2.1\WorkShop2.dll
+D:\Web\WorkShop2\obj\Debug\netcoreapp2.1\WorkShop2.pdb
